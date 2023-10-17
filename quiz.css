@@ -1,0 +1,79 @@
+body{
+    background: #2fe8cc;
+    font-style: oblique;
+}
+.div1, .div2, .div3{
+    background: #c793bf;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    width: 500px;
+}
+#player1_name , #player2_name, #player3_name{
+    display: inline-block;
+    margin-left: 80px;
+    font-size: 23px;
+    color:#2eccd1;
+}
+#word{
+    width: 60%;
+    }
+#word_display{
+    letter-spacing: 5px;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#container{
+    background-image: url(saa.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 5px solid black;
+    width: 750px;
+    height: 770px;
+    background-color: #ea42c3;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+    font-style: oblique;
+}
+#number1, #number2, #number3
+{
+    border-radius: 50px;
+    width: 300px;
+    height: 50px;
+    border: 3px solid red;
+    background-color: #cece71;
+    color: blueviolet;
+}
+input{
+    width: 300px;
+}
+#player1_score, #player2_score, #player3_score
+{
+    font-size: 20px;
+    color:#2eccd1;
+}
+h4, h3{
+    font-size: 30px;
+    color:#0ed635;
+}
+label{
+    font-size: 25px;
+    color: aqua;
+}
+#player1_name_input, #player2_name_input, #player3_name_input{
+    width:300px;
+    color: #5d4dd1;
+    border: 2px solid blue;
+    border-radius: 10px;
+    height: 40px;
+    font-size: 20px;
+}
